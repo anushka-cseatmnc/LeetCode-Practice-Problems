@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0539-minimum-time-difference](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0539-minimum-time-difference) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,11 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -93,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
