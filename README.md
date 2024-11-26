@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0539-minimum-time-difference](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0731-my-calendar-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
