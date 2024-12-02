@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0539-minimum-time-difference](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0054-spiral-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Tree
 |  |
@@ -167,5 +169,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
