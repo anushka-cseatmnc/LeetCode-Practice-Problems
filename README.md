@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0539-minimum-time-difference](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0731-my-calendar-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0731-my-calendar-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Math
