@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0539-minimum-time-difference](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0539-minimum-time-difference) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
