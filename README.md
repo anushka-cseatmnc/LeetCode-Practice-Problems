@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0018-4sum) |
 | [0054-spiral-matrix](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0118-pascals-triangle) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0018-4sum) |
 | [0539-minimum-time-difference](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0539-minimum-time-difference) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Trie
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
