@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0118-pascals-triangle) |
+| [0494-target-sum](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0729-my-calendar-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0118-pascals-triangle) |
+| [0494-target-sum](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0494-target-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Greedy
 |  |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
