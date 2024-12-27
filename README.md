@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0731-my-calendar-ii) |
+| [1063-best-sightseeing-pair](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Greedy
 |  |
