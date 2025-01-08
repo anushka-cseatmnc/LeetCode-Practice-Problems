@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting
 |  |
@@ -212,4 +215,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/0494-target-sum) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
