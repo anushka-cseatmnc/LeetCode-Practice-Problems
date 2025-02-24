@@ -80,7 +80,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
-## Bit Manipulation
+## Bit Manipulation  -  string sequence = "0";
+
+      https://leetcode.com/discuss/interview-question/3695233/all-types-of-patterns-for-bits-manipulations-and-how-to-use-it
 |  |
 | ------- |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anushka-cseatmnc/LeetCode-Practice-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
